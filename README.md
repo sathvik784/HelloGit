@@ -10,6 +10,3 @@ favorite food: Pizza
 
 name: kaushik,
 favorite food: Hot dog
-
-name: sathvik,
-favorite food: Chicken taquitos
